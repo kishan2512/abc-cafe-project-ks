@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {},
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "BillToCustomer"
+        }
+    },
+    "id": "74dfa6f3-400b-4b83-afb0-7be8d5bd07ec",
+    "version": "5.2.0.0"
+}
